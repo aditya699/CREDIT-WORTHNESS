@@ -17,3 +17,6 @@ I  recently developed an Azure ML Studio-based pipeline to determine creditworth
 
 
 If you're interested in learning more, follow me 🗣 and I'll share more tips and tricks about Data Science ✨ ✍ 
+
+
+![image](https://github.com/aditya699/CREDIT-WORTHNESS/assets/64576351/81da955a-a0a8-4833-93f5-e214c5ee9ae0)
